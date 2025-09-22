@@ -1,0 +1,50 @@
+/*reseta comfiguracao padrao*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: blue;
+    text-align: center;
+    padding: 20px 10px 20px 10px;
+}
+
+main {
+    text-align: center;
+    background-color: brown;
+    margin: 5px;
+    padding: 20px 10px 20px 10px;
+    box-shadow: 20px 10px 20px 10px;
+}
+
+nav {
+    padding: 20px 0px 20px 0px;
+    margin: 20px;
+    background-color: rgba(250, 235, 215, 0.681);
+}
+
+p {
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+h {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    background-color: rgb(40, 234, 105);
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    
+}
